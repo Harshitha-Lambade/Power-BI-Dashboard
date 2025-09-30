@@ -3,6 +3,8 @@ Dashboard creation for ShopNest Logistics Partner
 
 📊 **ShopNest Logistics Partner – Power BI Dashboard**
 
+https://drive.google.com/file/d/13qkEjQo0bwkUbaLQIaffR-ZWOh1k7Dc4/view?usp=sharing
+
 📌 **Project Overview**
 
 This project was developed as part of the ShopNest Logistics Partner analytics initiative, where merchants can showcase and sell their products. The goal was to create an interactive Power BI dashboard that provides insights into:
